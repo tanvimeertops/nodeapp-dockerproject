@@ -1,4 +1,7 @@
-ec2 instace  ubuntu
-clone code
-open port 3000
-browser ipaddress:3000
+install aws ubuntu with t3micro
+install docker and docker compose
+install jenkins
+clone code 
+run in jenkins with scm pipeline
+openport 3000
+check with ipaddress:portnumber

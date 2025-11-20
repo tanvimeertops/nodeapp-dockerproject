@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/vipulitinfra/nodeapp_demo.git'
+                git branch: 'main', url: 'https://github.com/tanvimeertops/nodeapp-dockerproject.git'
             }
         }
 

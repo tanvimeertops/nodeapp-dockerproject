@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello from NodeApp Demo 🚀 running on AWS Ubuntu!');
+  res.send('Welcome to My App by Tanvi Meer');
 });
 
 const PORT = process.env.PORT || 3000;
